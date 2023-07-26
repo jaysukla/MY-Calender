@@ -122,12 +122,7 @@ They need to go through User Authentication middleware, to perform any interacti
 ![workfflow](https://user-images.githubusercontent.com/112753481/233953000-b734e66d-fbdc-4932-8a7b-b58dfdb4f68b.png)
 
 ---
-### Team Members of the Project :- 
-- Jay Shukla
-- Kunal Mehra
-- Sitansu Mandal
-- Mohima Bahadur
-- Punit Juneja
+
 
 ---
 ## Thankyou for your Time :raised_hands: 💝 :-
